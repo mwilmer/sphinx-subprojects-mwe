@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Own additions
+**/docs/_build
+**/docs/_source
+**/docs/_templates
+
+**/__pycache__

@@ -6,9 +6,13 @@
 Welcome to MWE main project's documentation!
 ============================================
 
+Hello there! This is the documentation of the main project!
+
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
+
+   subprojects
 
 
 
